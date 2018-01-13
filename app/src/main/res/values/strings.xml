@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rugby Score Keeper</string>
+    <string name="reset">Reset</string>
+    <string name="drop_goal">Drop Goal</string>
+    <string name="penalty_kick">Penalty Kick</string>
+    <string name="conversion">Conversion</string>
+    <string name="try_rugby">try</string>
+</resources>
